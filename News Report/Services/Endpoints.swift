@@ -7,4 +7,4 @@
 
 import Foundation
 
-class func getTopHeadLines(completion: )
+//class func getTopHeadLines(completion: )
